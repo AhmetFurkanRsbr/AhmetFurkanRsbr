@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/ahmet-furkan-resber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet-furkan-resber" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ahmetfurkanrsbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmetfurkanrsbr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmetfurkanresb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmetfurkanresb1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ahmetfurkanrsbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmetfurkanrsbr" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nsbutuo2bu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nsbutuo2bu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
