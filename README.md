@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmet Furkan</h1>
-<h3 align="center">Bilgisayar Mühendisliği Öğrencisi 3/4 --> Computer Engineering Student 3/4</h3>
+<h3 align="center">Computer Engineering Student 3/4</h3>
 
-- 🔭 I’m currently working on Java swing gui Desktop application [ortalamaUygulamasi](https://github.com/AhmetFurkanRsbr/ortalamauUygulamasi)
+- 🔭 I’m currently working on Backend Web App
 
-- 👀 I’m interested in: Cyber security, Embedded systems, Desktop application, Artificial intelligence, Backend developer...
+- 👀 I’m interested in: Artificial intelligence, Backend developer, Cyber security, Embedded systems
 
-- 🌱 I’m currently learning **Google Flutter&Dart, Java spring boot...**
+- 🌱 I’m currently learning ** asp.Net, Java spring boot**
 
-- 💬 Ask me about **Java, C, C++, Sql**
+- 💬 Ask me about **Java, C, Sql**
 
 - 📫 How to reach me **ahmetfurkanresber@gmail.com**
 
