@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmet Furkan</h1>
-<h3 align="center">Computer Engineering Student 3/4</h3>
+<h3 align="center">Computer Engineering Student 4/4</h3>
 
 - 🔭 I’m currently working on Backend Web App
 
 - 👀 I’m interested in: Artificial intelligence, Backend developer, Cyber security, Embedded systems
 
 - 🌱 I’m currently learning ** asp.Net, Java spring boot**
-
-- 💬 Ask me about **Java, C, Sql**
 
 - 📫 How to reach me **ahmetfurkanresber@gmail.com**
 
